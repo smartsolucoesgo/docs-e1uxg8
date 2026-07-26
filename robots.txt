@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-nbev4c.hartawin.space/sitemap.xml
